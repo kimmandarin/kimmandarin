@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Gyuil-Kim's%20GitHub&fontSize=70&animation=scaleIn)
 <!--
 
