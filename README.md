@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠 Technologies & Tools
+<h3>OS</h3>
+
+<h3>Code</h3>
+
+<h3>Tools</h3>
