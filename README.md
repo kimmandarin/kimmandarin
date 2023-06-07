@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3>OS</h3>
 <p>
   <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linuxs&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=ubuntu&logoColor=#E95420"/>
 </p>
 
 <h3>Code</h3>
