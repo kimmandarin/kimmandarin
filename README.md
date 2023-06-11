@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/-C-3A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-276DC3?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </p>
 
 <h3>Stacks</h3>
