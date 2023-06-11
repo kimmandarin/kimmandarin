@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p>
   <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 </p>
 
 <h3>Code</h3>
