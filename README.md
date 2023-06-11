@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠 Technologies & Tools
+## 🛠 Technologies
 <h3>OS</h3>
 <p>
   <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 <h3>Code</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<h3>Stacks</h3>
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </p>
 
 <h3>Tools</h3>
