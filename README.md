@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>Code</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=windows&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 <h3>Tools</h3>
