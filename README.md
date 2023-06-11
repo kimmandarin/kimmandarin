@@ -50,3 +50,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </p>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
