@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 <h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-32496ED?style=flat&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
 </p>
